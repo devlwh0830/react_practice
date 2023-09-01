@@ -1,1 +1,1 @@
-# 리액트 공부 작업물
+# React Practice
